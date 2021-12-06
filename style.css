@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;500;600;700&family=Josefin+Slab:ital,wght@0,300;0,500;0,600;0,700;1,200;1,300;1,600;1,700&family=Mulish:ital,wght@0,200;0,300;1,200;1,300&display=swap');
+
+
+:root{
+    --font-primary: "Baloo Da 2", serif;
+    --font-secundary: "Josefin Slab", serif;
+    --font-action: "Mulish", serif;
+}
+
+#buscastyle{
+    font-family: var(--font-secundary);
+}
+
+#filtrarstyle{
+    font-family: var(--font-action);
+    font-weight: bold;
+}
+
+#direitostyle{
+    font-family: var(--font-action);
+}
+
+#adicionarstyle{
+    font-family: var(--font-action);
+}
+
+#mestradostyle{
+    font-size: 12px;
+}
+
+#tiposcheck{
+    font-family: var(--font-action);
+    font-weight: bold;
+}
+
+#buscarstyle{
+    font-family: var(--font-action);
+}
+
+#buscarladolado{
+    display: inline;
+}
+
+.footer{
+    background-color: #0400ffbd;
+	padding: 2px 0px;
+	margin-top: 40px;
+}
+
+.footer p{
+    color: rgb(255, 255, 255);
+	font-size: 18px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.footer a:hover{
+    color:#fff
+}
+
+#bemvindo{
+    font-family: var(--font-action);
+}
+
+.span{
+    font-family: var(--font-primary);
+    color: rgb(255, 142, 142);
+}
+
+.circulo{
+    text-align: center;
+    width: 28px;
+    height: 20px;
+    border-radius: 44%;
+    background-color: rgb(201, 220, 255);
+}
+
+.buscandostyle{
+    background-color: blue;
+}
