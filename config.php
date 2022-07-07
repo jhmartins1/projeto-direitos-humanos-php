@@ -10,7 +10,7 @@ define('DB_SERVER', 'localhost');
 
 define('DB_USERNAME', 'root');
 
-define('DB_PASSWORD', '811985');
+define('DB_PASSWORD', '');
 
 define('DB_NAME', 'direitos_humanos');
 
